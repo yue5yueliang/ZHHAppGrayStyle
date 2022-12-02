@@ -1,0 +1,16 @@
+PODS:
+  - ZHHAppGrayStyle (0.0.1)
+
+DEPENDENCIES:
+  - ZHHAppGrayStyle (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHAppGrayStyle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHAppGrayStyle: a10e57caca6c661a20dbf9616d7c9ef1559d238c
+
+PODFILE CHECKSUM: 8307348aeaf541c37dcc162a99ed9337ec0e3a38
+
+COCOAPODS: 1.11.3

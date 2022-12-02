@@ -1,0 +1,6 @@
+framework module ZHHAppGrayStyle {
+  umbrella header "ZHHAppGrayStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}

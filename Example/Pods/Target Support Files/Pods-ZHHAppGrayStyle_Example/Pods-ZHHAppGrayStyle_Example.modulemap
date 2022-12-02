@@ -1,0 +1,6 @@
+framework module Pods_ZHHAppGrayStyle_Example {
+  umbrella header "Pods-ZHHAppGrayStyle_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
